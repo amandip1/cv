@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to right, #D8AFF0, #C16CF2, #A51BF4);
+}
+
+hr {
+  background-color: none;
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
